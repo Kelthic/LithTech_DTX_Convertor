@@ -10,8 +10,8 @@
 
 ## Overview
 
-**DTX → DDS Converter** is a small command-line tool designed to convert  
-LithTech `.dtx` texture files into standard `.dds` textures.
+**DTX to DDS Converter** is a small command-line tool designed to convert  
+LithTech `.DTX` texture files into standard `.DDS` textures.
 
 The tool supports several common compression formats used by older  
 LithTech-based games and preserves mipmaps during conversion.
@@ -20,7 +20,7 @@ LithTech-based games and preserves mipmaps during conversion.
 
 ## Features
 
-- Convert `.dtx` textures to `.dds`
+- Convert `.DTX` textures to `.DDS`
 - Supports:
   - DXT1
   - DXT3
@@ -34,10 +34,10 @@ LithTech-based games and preserves mipmaps during conversion.
 
 ## Usage
 
-Place your `.dtx` files near the script and run:
+Place your `.DTX` files near the script and run:
 
 ```bash
-python script.py texture.dtx
+python script.py texture.DTX
 ```
 
 ---
