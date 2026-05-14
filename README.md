@@ -38,3 +38,13 @@ Place your `.dtx` files near the script and run:
 
 ```bash
 python script.py texture.dtx
+```
+
+---
+## Credit
+
+[Five Damned Dollarz](https://github.com/Five-Damned-Dollarz/DTXTool/blob/main/research/DTX_Lithtech_texture_template.bt) for research
+
+[jsj2008](https://github.com/jsj2008/lithtech/blob/master/tools/shared/engine/dtxmgr.h) for example of DTX format
+
+[AkvenJan](https://github.com/AkvenJan/DTX-Meta-Transfer) for useful tips about DTX and DDS formats
